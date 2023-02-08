@@ -1,0 +1,75 @@
+body {
+    background-color: #121210;
+}
+header .cabecalho .logo {
+    height: 200px;
+    position: absolute;
+    right: 600px;
+}
+
+nav .redes .you{
+    height: 40px;
+    position: absolute;
+    right: 5%;
+    top: 60%;
+}
+nav .redes .insta {
+    height: 50px;
+    position: absolute;
+    right: 4%;
+    top: 50%;
+}
+.menbers .nome1{
+    color: aliceblue;
+    position: absolute;
+    top: 1400px;
+    right: 84%;
+    font-size: 20px;
+}
+.menbers .nome2{
+    color: aliceblue;
+    position: absolute;
+    top: 1400px;
+    right: 48% ;
+    font-size: 20px;
+}
+.menbers .nome3 {
+    color: aliceblue;
+    position: absolute;
+    top: 1400px;
+    right: 15%;
+    font-size: 20px;
+}
+.menbers .say{
+    height: 400px;
+    position: absolute;
+    top: 1000px;
+    right: 40%;
+}
+.menbers .vitin {
+    height: 400px;
+    position: absolute;
+    top:1000px;
+    right: 75%
+    ;
+    
+}
+.menbers .zin {
+    height: 400px;
+    position: absolute;
+    top: 1000px;
+    right: 9%;
+}
+main .sobre {
+    color: aliceblue;
+    position: absolute;
+    top: 60%;
+    font-size: 20px;
+    width: 80%;
+}
+.menbers .pont {
+    position: absolute;
+    top: 2000px;
+    overflow: hidden;
+    color: #888;
+}
